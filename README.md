@@ -29,7 +29,7 @@ public class AboutMe {
 
 <img src="https://github-readme-stats.vercel.app/api?username=pasindulakshankudaligama&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=pasindulakshankudaligama&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
-<img alt="PasinduLakshanKUdaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligamai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+<img alt="PasinduLakshanKUdaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pasindulakshankudaligama&color=brightgreen">
@@ -75,16 +75,16 @@ public class AboutMe {
 <p align="center">
   <a href="https://www.linkedin.com/in/pasindu-lakshan-kudaligama-73bbaa214/"><img alt="Linkedin" title="Pasindu Lakshan Kudaligama Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/lakshan_997"><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:kudaligamagepasindulakshan@gmail.com"><img alt="Gmail" title="Pasindu LAkshan Kudaligama Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kudaligamagepasindulakshan@gmail.com"><img alt="Gmail" title="Pasindu Lakshan Kudaligama Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/pasindulakshankudaligama"><img alt="Github" title="Pasindu Lakshan Kudaligama Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <!---
-- 👋 Hi, I’m @PasinduLakshanKUdaligama
+- 👋 Hi, I’m @PasinduLakshanKudaligama
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-PasinduLakshanKUdaligama/PasinduLakshanKUdaligama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PasinduLakshanKudaligama/PasinduLakshanKudaligama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
