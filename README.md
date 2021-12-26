@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Helitha+Sri;Software+Engineer+Student;And+an+Open+Source+Supporter">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Pasindu+Lakshan+Kudaligama;Software+Engineer+Student;And+an+Open+Source+Supporter">
 </p>
 
 ```java
