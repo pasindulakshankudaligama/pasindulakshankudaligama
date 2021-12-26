@@ -10,7 +10,7 @@ public class AboutMe {
         String currently_learning = "Web Development";
         String fun_fact = "I like to so much make others smile to do crazy things";
         String[] hobbies = {
-                "Playong Video Gaming",
+                "Playing Video Gaming",
                 "Playing Cricket",
                 "Tv series",
                 
