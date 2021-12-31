@@ -35,11 +35,11 @@ public class AboutMe {
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pasindulakshankudaligama&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/pasindulakshankudaligama">
 </p>
+<h2 align="center">🛠️ My favorite tools</h2>
+ 
+<h3 align="center">👨‍💻 Programming languages</h3>
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-<p>
+<p align="center">
   <a href="https://github.com/search?q=user%pasindulakshankudaligama+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%pasindulakshankudaligama+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%pasindulakshankudaligama+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -51,16 +51,15 @@ public class AboutMe {
   <a href="https://github.com/search?q=user%pasindulakshankudaligama+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 </p>
-
-### 🧰 Frameworks and libraries
-<p>
+<h3 align="center">🧰 Frameworks and libraries</h3>
+<p align="center">
  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 </p>
+<h3 align="center">💻 Software and tools</h3>
 
-### 💻 Software and tools
-<p>
+<p align="center">
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-021B37.svg?logo=intellij-idea&logoColor=white"></a>
@@ -70,14 +69,40 @@ public class AboutMe {
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 </p>
+<h3 align="center">🔗 Connect with Me</h3>
 
-## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pasindu-lakshan-kudaligama-73bbaa214/"><img alt="Linkedin" title="Pasindu Lakshan Kudaligama Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/lakshan_997"><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href=""><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:kudaligamagepasindulakshan@gmail.com"><img alt="Gmail" title="Pasindu Lakshan Kudaligama Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/pasindulakshankudaligama"><img alt="Github" title="Pasindu Lakshan Kudaligama Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+<h3 align="center">
+Where to find me 🤙
+</h3>
+<div align="center">
+
+[<img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="25" src = "https://img.shields.io/badge/twitter-00614A.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
+[<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
+
+
+</div>
+
+
+
+[Facebook]: https://www.facebook.com/pasindulakshankudaligama1999
+[WhatsApp]: https://wa.me/0750293569
+[Twitter]: https://twitter.com/lakshan_997
+[Instagram]: https://www.instagram.com/pasindu_lakshan_kudaligama/
+[Telegram]:https://web.telegram.org/k/
+
+
+
+
 <!---
 - 👋 Hi, I’m @PasinduLakshanKudaligama
 - 👀 I’m interested in ...
@@ -85,6 +110,28 @@ public class AboutMe {
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-PasinduLakshanKudaligama/PasinduLakshanKudaligama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
+<p align="center">Pasindu Lakshan Kuddaligama<br>
+<img alt="Stars" src="https://img.shields.io/github/stars/PasinduLakshanKudaligama/PasinduLakshanKudaligama?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/PasinduLakshanKudaligama/PasinduLakshanKudaligama?style=flat-square&labelColor=343b41"/>
+</p>
+
+<p align="center">
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
+GitHub Readme Profile Styles here ! ✌
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
