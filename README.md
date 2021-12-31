@@ -100,17 +100,6 @@ Where to find me 🤙
 [Instagram]: https://www.instagram.com/pasindu_lakshan_kudaligama/
 [Telegram]:https://web.telegram.org/k/
 
-
-
-
-<!---
-- 👋 Hi, I’m @PasinduLakshanKudaligama
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
----
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
 <p align="center">Pasindu Lakshan Kuddaligama<br>
 <img alt="Stars" src="https://img.shields.io/github/stars/PasinduLakshanKudaligama/PasinduLakshanKudaligama?style=flat-square&labelColor=343b41"/>
@@ -126,7 +115,7 @@ Where to find me 🤙
 </p>
 
 <p align="center">
-<a href="https://github.com/Mindula-Dilthushan/Readme-File-Styles">
+<a href="https://github.com/pasindulakshankudaligama/Readme-File-Styles">
 GitHub Readme Profile Styles here ! ✌
 </a>
 </p>
