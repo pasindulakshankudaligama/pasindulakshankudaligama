@@ -1,6 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Pasindu+Lakshan+Kudaligama;Software+Engineer+Student;And+an+Open+Source+Supporter">
-</p>
+</p >
+
+### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
+- My primary coding language : Java 🧒
+- Graduate in Software Engineering at IJSE 👨‍🎓
+- Proud to be Sripalian. 💙🧡
+- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS
+- Design Skills : *AdobeXD, Figma
+- - How to reach me : kudaligamagepasindulakshan@gmail.com & ⚡ My WhatsApp : +94 750293569
 
 ```java
 public class AboutMe {
@@ -25,7 +33,7 @@ public class AboutMe {
     }
 }
 ```
-## 📊 Github stats
+<h3 align="center">📊 Github stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pasindulakshankudaligama&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=pasindulakshankudaligama&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
