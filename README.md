@@ -10,34 +10,12 @@
 - Design Skills : *AdobeXD, Figma
 - - How to reach me : kudaligamagepasindulakshan@gmail.com & ⚡ My WhatsApp : +94 750293569
 
-```java
-public class AboutMe {
-    public static void main(String[] args) {
-        String user = "Pasindu Lakshan Kudaligama";
-        String current_edu = "IJSE";
-        String currently_learning = "Web Development";
-        String fun_fact = "I like to so much make others smile to do crazy things";
-        String[] hobbies = {
-                "Playing Video Gaming",
-                "Playing Cricket",
-                "Tv series",
-                
-        };
 
-        Ambitions();
-    }
-
-    private static void Ambitions() {
-        BecomeSoftwareEngineer();
-        FinishMyProjects();
-    }
-}
-```
-<h3 align="center">📊 Github stats</h3>
+<h3 align="center">📊 Github status</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pasindulakshankudaligama&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=pasindulakshankudaligama&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
-<img alt="PasinduLakshanKUdaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+<img alt="pasindulakshankudaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pasindulakshankudaligama&color=brightgreen">
@@ -59,12 +37,6 @@ public class AboutMe {
   <a href="https://github.com/search?q=user%pasindulakshankudaligama+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 </p>
-<h3 align="center">🧰 Frameworks and libraries</h3>
-<p align="center">
- <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-
-</p>
 <h3 align="center">💻 Software and tools</h3>
 
 <p align="center">
@@ -81,7 +53,7 @@ public class AboutMe {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pasindu-lakshan-kudaligama-73bbaa214/"><img alt="Linkedin" title="Pasindu Lakshan Kudaligama Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href=""><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/lakshan_997"><img alt="Twitter" title="Pasindu Lakshan Kudaligama Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:kudaligamagepasindulakshan@gmail.com"><img alt="Gmail" title="Pasindu Lakshan Kudaligama Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/pasindulakshankudaligama"><img alt="Github" title="Pasindu Lakshan Kudaligama Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -93,7 +65,6 @@ Where to find me 🤙
 
 [<img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
-[<img height="25" src = "https://img.shields.io/badge/twitter-00614A.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
 [<img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
 
@@ -104,7 +75,6 @@ Where to find me 🤙
 
 [Facebook]: https://www.facebook.com/pasindulakshankudaligama1999
 [WhatsApp]: https://wa.me/0750293569
-[Twitter]: https://twitter.com/lakshan_997
 [Instagram]: https://www.instagram.com/pasindu_lakshan_kudaligama/
 [Telegram]:https://web.telegram.org/k/
 
