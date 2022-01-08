@@ -14,7 +14,6 @@
 <h3 align="center">📊 Github status</h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pasindulakshankudaligama&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=HelithaSri&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
 <img alt="pasindulakshankudaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
