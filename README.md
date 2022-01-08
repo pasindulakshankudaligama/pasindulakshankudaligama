@@ -13,9 +13,7 @@
 
 <h3 align="center">📊 Github status</h3>
 
-
-|---|---|
-<img alt="pasindulakshankudaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+<img  alt="pasindulakshankudaligama's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindulakshankudaligama&langs_count=8&layout=compact&theme=react&hide_border=hide&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pasindulakshankudaligama&color=brightgreen">
@@ -66,17 +64,12 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/Facebook-00614A.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="25" src = "https://img.shields.io/badge/Whatsapp-00614A.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
 [<img height="25" src = "https://img.shields.io/badge/instragram-00614A.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
-[<img height="25" src = "https://img.shields.io/badge/telegram-00614A.svg?&style=for-the-badge&logo=telegram&logoColor=white">][Telegram]
-
 
 </div>
-
-
 
 [Facebook]: https://www.facebook.com/pasindulakshankudaligama1999
 [WhatsApp]: https://wa.me/0750293569
 [Instagram]: https://www.instagram.com/pasindu_lakshan_kudaligama/
-[Telegram]:https://web.telegram.org/k/
 
 <h3 align="center">𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝</h3>
 <p align="center">Pasindu Lakshan Kuddaligama<br>
