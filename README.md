@@ -6,7 +6,7 @@
 - My primary coding language : Java 🧒
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Proud to be Sripalian. 💙🧡
-- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS
+- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS, PHP, Laravel
 - Design Skills : *AdobeXD, Figma
 - - How to reach me : kudaligamagepasindulakshan@gmail.com & ⚡ My WhatsApp : +94 750293569
 
