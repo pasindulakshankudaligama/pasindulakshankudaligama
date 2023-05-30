@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Pasindu+Lakshan+Kudaligama;Software+Engineer+Student;And+an+Open+Source+Supporter">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Pasindu+Lakshan+Kudaligama;Software+Engineer+Intern;And+an+Open+Source+Supporter">
 </p >
 
 ### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
 - My primary coding language : Java 🧒
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Proud to be Sripalian. 💙🧡
-- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS, PHP, Laravel
+- Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS, PHP, Laravel, Express.js,  React, React-Native, JavaFX, Hibernate, Bootstrap,  MongoDB, jQuery, Git, TailwindCSS,
 - Design Skills : *AdobeXD, Figma
 - - How to reach me : kudaligamagepasindulakshan@gmail.com & ⚡ My WhatsApp : +94 750293569
 
