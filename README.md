@@ -8,7 +8,7 @@
 - Proud to be Sripalian. 💙🧡
 - Programming Skills : *Java, HTML, CSS, JavaScript, NodeJS, PHP, Laravel, Express.js,  React, React-Native, JavaFX, Hibernate, Bootstrap,  MongoDB, jQuery, Git, TailwindCSS,
 - Design Skills : *AdobeXD, Figma
-- - How to reach me : kudaligamagepasindulakshan@gmail.com & ⚡ My WhatsApp : +94 750293569
+- - How to reach me : pasindukudaligama.lk@gmail.com & ⚡ My WhatsApp : +94 750293569
 
 
 <h3 align="center">📊 Github status</h3>
